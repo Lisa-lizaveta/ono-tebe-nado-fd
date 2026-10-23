@@ -1,7 +1,7 @@
 body {
   max-width: 1100px;
   margin: 0 auto;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 .header {
@@ -71,7 +71,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 5px; 
+  gap: 5px;
 }
 
 .address__link {
@@ -132,15 +132,15 @@ body {
 }
 
 .aligned-text_left {
-  text-align:  left;
+  text-align: left;
 }
 
 .aligned-text_center {
-  text-align:  center;
+  text-align: center;
 }
 
 .aligned-text_right {
-  text-align:  right;
+  text-align: right;
 }
 
 .no-letter-spacing {
@@ -165,10 +165,10 @@ body {
 }
 
 .bet-button {
-  border: 1px solid #ffffff;   
+  border: 1px solid #ffffff;
   background: transparent;
   font-size: 22px;
-  padding: 12px 32px 11px 31px;        
+  padding: 12px 32px 11px 31px;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   cursor: pointer;
@@ -220,7 +220,7 @@ body {
 
 .card__title {
   position: relative;
-  z-index:  2;
+  z-index: 2;
   margin: 0 0 10px 0;
   font-size: 22px;
   text-transform: uppercase;
@@ -248,7 +248,7 @@ body {
 .card_type_book,
 .card_type_picture {
   background-size: cover;
-  background-position: center; 
+  background-position: center;
   background-repeat: no-repeat;
 }
 
