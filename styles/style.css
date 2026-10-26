@@ -39,7 +39,7 @@
 
 .header__link {
   color: #000;
-  font-size: 16px;
+  font-size: 18px;
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
@@ -61,7 +61,7 @@
 
 .address__link {
   color: inherit;
-  font-size: 16px;
+  font-size: 18px;
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
@@ -69,6 +69,7 @@
 
 .address__text {
   line-height: 1.2;
+  font-size: 18px;
 }
 
 .cover {
@@ -311,6 +312,7 @@
 
 .footer__menu-link {
   color: inherit;
+  font-size: 18px;
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
